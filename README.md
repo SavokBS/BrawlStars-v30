@@ -1,5 +1,7 @@
-# BrawlStars-v33
+# BrawlStars-v30
 v30 Brawl Stars open-source server.
+
+p.s.: i've used some new tool for me like messaging :) it very comfortable, so
 # About
 Brawl Stars v30 server written on Python that includes some basic functions
 # Client
