@@ -25,5 +25,5 @@ class Login(ByteStream):
        
     
     def process(self):
-    #    Messaging(self.client).send(LoginOk(self.player))
+        Messaging(self.client).send(LoginOk(self.player))
         Messaging(self.client).send(OwnHomeData(self.player))
